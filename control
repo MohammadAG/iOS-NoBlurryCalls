@@ -1,0 +1,9 @@
+Package: com.mohammadag.noblurrycalls
+Name: No Blurry Calls
+Depends: mobilesubstrate, cy+os.ios (>= 8.0)
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Remove blur from call contact background
+Maintainer: Mohammad Abu-Garbeyyeh
+Author: Mohammad Abu-Garbeyyeh
+Section: Tweaks
